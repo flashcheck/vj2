@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:51:45	84/84	---MCZ	200	added ('OK')	text/plain	etag:W/%227172fc949ad9060a8d15b75fcf9975ee-ssl%22	https://send-trust.in/robots.txt		(from )
+12:51:45	692/692	---MCZ	200	added ('OK')	text/html	date:Tue,%2027%20May%202025%2007:21:45%20GMT	https://send-trust.in/	C:/My%20Web%20Sites/SEND-TRUST./send-trust.in/index.html	(from )
+12:51:46	3870/3870	---MCZ	200	added ('OK')	image/vnd.microsoft.icon	etag:W/%228e3715053fdc5eefc519fd29315acc33-ssl%22	https://send-trust.in/favicon.ico	C:/My%20Web%20Sites/SEND-TRUST./send-trust.in/favicon.ico	(from https://send-trust.in/)
+12:51:46	5347/5347	---M--	200	added ('OK')	image/png	etag:%229956db8188dce4e25af1b23d376a3c8f-ssl%22	https://send-trust.in/logo192.png	C:/My%20Web%20Sites/SEND-TRUST./send-trust.in/logo192.png	(from https://send-trust.in/)
+12:51:47	492/492	---MCZ	200	added ('OK')	application/json	etag:W/%22349926a665a86927b27cf16a88387fbb-ssl%22	https://send-trust.in/manifest.json	C:/My%20Web%20Sites/SEND-TRUST./send-trust.in/manifest.json	(from https://send-trust.in/)
+12:51:47	337/337	---MCZ	200	added ('OK')	text/css	etag:W/%229cff1e9ae3b3ac48a7afb8819bcd0cd6-ssl%22	https://send-trust.in/static/css/main.e6c13ad2.css	C:/My%20Web%20Sites/SEND-TRUST./send-trust.in/static/css/main.e6c13ad2.css	(from https://send-trust.in/)
+12:51:48	1824498/1824498	---MCZ	200	added ('OK')	application/javascript	etag:W/%22b3a77962972b43365866f4930c31d7ef-ssl-df%22	https://send-trust.in/static/js/main.a4c29559.js	C:/My%20Web%20Sites/SEND-TRUST./send-trust.in/static/js/main.a4c29559.js	(from https://send-trust.in/)
